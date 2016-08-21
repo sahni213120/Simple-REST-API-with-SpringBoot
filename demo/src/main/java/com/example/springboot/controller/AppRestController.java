@@ -18,7 +18,7 @@ import com.example.springboot.repositories.CustomerRepository;
 /**
  * Rest Controller of the application where all REST HTTP methods are defined and implemented
  * 
- * @author SahniH
+ * @author Himanshu Sahni
  *
  */
 @RestController

@@ -11,7 +11,7 @@ import com.github.javafaker.Faker;
 
 /**
  * Class to start the spring boot REST APP
- * @author SahniH
+ * @author Himanshu Sahni
  *
  */
 @SpringBootApplication

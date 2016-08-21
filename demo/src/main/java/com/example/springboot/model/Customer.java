@@ -7,7 +7,7 @@ import javax.persistence.Id;
 
 /**
  * Domain class for customer object
- * @author SahniH
+ * @author Himanshu Sahni
  *
  */
 @Entity

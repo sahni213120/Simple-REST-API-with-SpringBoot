@@ -10,7 +10,7 @@ import com.example.springboot.model.Customer;
  * Interface that extends CrudRepository that allows CRUD (Create, Retrieve,
  * Update, Delete) operations on customer model object
  * 
- * @author SahniH
+ * @author Himanshu Sahni
  *
  */
 public interface CustomerRepository extends CrudRepository<Customer, Long> {
