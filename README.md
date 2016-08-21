@@ -1,7 +1,7 @@
 # Simple-REST-API-with-SpringBoot
 Demo project which shows how to create a simple REST API using spring boot.
 
-1) Description
+#1) Description
 This project gives a high level overview of creating a simple REST API using spring boot. The REST API is related to a performing simple CRUD (CREATE, RETRIEVE, UPDATE, DELETE) operations on a Customer object.
 The API allows users to add a new customer, retrieve an existing customer, update a customer and delete a customer from the database.
 The app uses in memory H2 database for storing customer information. When the app starts, the app by default inserts few dummy customers in the database.
